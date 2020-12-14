@@ -558,7 +558,7 @@ aside h3:first-child {
 }
 
 #articles article {
-    width: 100%;
+    width: 98%;
     height: auto;
     border: 1px solid #CCC;
     margin: 40px auto;
@@ -666,7 +666,7 @@ aside h3:first-child {
     overflow: hidden;
 }
 
-#footer .wrap>div {
+#footer .wrap > div {
     float: left;
     width: 320px;
     height: 370px;
@@ -734,6 +734,7 @@ aside h3:first-child {
 
 #footer img {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 #footer #browsers img {
